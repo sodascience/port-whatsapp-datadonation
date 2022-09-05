@@ -1,0 +1,31 @@
+{
+  "wa_settings": {
+    "last_seen_privacy": "My Contacts",
+    "profile_photo_privacy": "My Contacts",
+    "about_privacy": "My Contacts",
+    "status_privacy": [
+      
+    ],
+    "read_receipts": "Yes",
+    "settings_last_fetch_time": {
+      "0": 1657736429
+    },
+    "sync_sessions": [
+      
+    ],
+    "device_sync_status": [
+      {
+        "device_id": 0
+      }
+    ],
+    "device_info": [
+      {
+        "device_id": 0,
+        "app_version": "iPhone-2.22.14.74",
+        "operating_system_version": "15.5",
+        "device_manufacturer": "Apple",
+        "device_model": "iPhone 11"
+      }
+    ]
+  }
+}
