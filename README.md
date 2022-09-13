@@ -4,7 +4,7 @@
 <!-- e.g. Github Actions workflow status -->
 
 In collaboration with the [Human Data Science group](https://hds.sites.uu.nl) and [Eyra](https://eyra.co), we developed scripts
-to make data from WhatsApp download packages easily accessible to researchers. 
+to make WhatsApp data packages easily accessible to researchers. 
 
 Respondents can voluntarily donate their data 
 download packages through an online platform (PORT), and researchers can provide custom data extraction scripts, which will be run locally on the respondent’s devices. 
