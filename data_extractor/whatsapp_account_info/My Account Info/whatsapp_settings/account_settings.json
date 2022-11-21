@@ -1,0 +1,54 @@
+{
+  "wa_settings": {
+    "last_seen_privacy": "Everyone",
+    "profile_photo_privacy": "Everyone",
+    "about_privacy": "Everyone",
+    "status_privacy": [
+      
+    ],
+    "read_receipts": "Yes",
+    "settings_last_fetch_time": {
+      "2": 1658173595,
+      "0": 1660120284
+    },
+    "current_sync_session_id": "ecI8yudRp/Q7QJL3gJ80Ow==",
+    "current_sync_session_account_registration_time": 1515179169,
+    "sync_sessions": [
+      {
+        "sync_session_id": "ecI8yudRp/Q7QJL3gJ80Ow==",
+        "account_registration_time": 1515179169,
+        "state_collections": [
+          "critical_block",
+          "critical_unblock_low",
+          "regular",
+          "regular_high"
+        ]
+      }
+    ],
+    "device_sync_status": [
+      {
+        "device_id": 0,
+        "last_notification_dropped_time": 1648591044
+      },
+      {
+        "device_id": 2
+      }
+    ],
+    "device_info": [
+      {
+        "device_id": 0,
+        "app_version": "iPhone-2.22.15.77",
+        "operating_system_version": "15.5",
+        "device_manufacturer": "Apple",
+        "device_model": "iPhone 11"
+      },
+      {
+        "device_id": 2,
+        "app_version": "Web-2.2224.8",
+        "operating_system_version": "0.1",
+        "device_manufacturer": "",
+        "device_model": "Desktop"
+      }
+    ]
+  }
+}
