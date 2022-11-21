@@ -82,7 +82,7 @@ Science (SoDa)](https://odissei-data.nl/nl/soda/) team.
 Do you have questions, suggestions, or remarks on the technical implementation? File an issue in the
 issue tracker or feel free to contact [Parisa Zahedi](https://github.com/parisa-zahedi) or [Shiva Nadi](https://github.com/shNadi)
 
-<img src="man/resources/word_colour-l.png" alt="SoDa logo" width="250px"/> 
+<img src="img/resources/word_colour-l.png" alt="SoDa logo" width="250px"/> 
 
 Project Link: [https://github.com/sodascience/port-whatsapp-datadonation](https://github.com/sodascience/port-whatsapp-datadonation)
 
