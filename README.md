@@ -17,12 +17,22 @@ Participants can voluntary donate their whatsapp data for research purposes.
 This project consists of two main scripts for extracting information from WhatsApp group chats and WhatsApp account data.
 The extraction logic is placed in the process function within data_extractor/[whatsapp_chat or whatsapp_account_info]/__init__.py which follows the template format of PORT. More information about collaboration with PORT can be found in this [tutorial]().
 
-The script can be tested through an online platform called port-poc.We provide two levels of data extraction:
+The script can be tested through an online platform called port-poc:
 - [Group level](https://next.dev.eyra.co/data-donation/flow/5?session[participant]=test)
 - [Account level](https://next.dev.eyra.co/data-donation/flow/6?session[participant]=test)
 
 
 ## Usage
+
+<!-- We should add here -->
+- Install Poetry:
+```
+pip install poetry
+```
+- install the required python packages :
+```
+poetry install
+```
 
 The behavior of the process function can be verified by running the tests. The test are located in the tests folder.
 To run the tests
