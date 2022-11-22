@@ -5,7 +5,7 @@
 
 In collaboration with the [Human Data Science group](https://hds.sites.uu.nl) and [Eyra](https://eyra.co), the Data Extractor script (as a part of [Data Donation project](https://github.com/eyra/port-poc)) is developed by SoDa team to make the information extracted from the WhatsApp Data Download packages(DDPs) accessible to the researchers for further analysis while preserving the the privacy of the datadonators. 
 
-# WhatsApp data donation process
+## WhatsApp data donation process
 
 Participants can voluntary donate their whatsapp data for research purposes. 
 - Participant can requests for his/her WhatsApp DDPs through the whatsapp application (on group/account level)
@@ -13,7 +13,7 @@ Participants can voluntary donate their whatsapp data for research purposes.
 - Data extraction and anonymization processes run locally on participant's browser using pyodide technology
 - Extracted data can be donatated after being reviewed and approved by the participant 
 
-# Data Extraction overview
+## Data Extraction overview
 
 This project consists of two main scripts for extracting information from WhatsApp group chats and WhatsApp account data.
 The extraction logic is placed in the process function within data_extractor/[whatsapp_chat or whatsapp_account_info]/__init__.py which follows the template format of PORT. More information about collaboration with PORT can be found in this [tutorial]().
