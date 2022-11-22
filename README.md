@@ -3,7 +3,7 @@
 <!-- Include Github badges here (optional) -->
 <!-- e.g. Github Actions workflow status -->
 
-In collaboration with the [Human Data Science group](https://hds.sites.uu.nl) and [Eyra](https://eyra.co), the Data Extractor script (as a part of [Data Donation project](https://github.com/eyra/port-poc)) is developed by Soda team to make the information extracted from the WhatsApp Data Download packages(DDPs) accessible to the researchers for further analysis while preserving the the privacy of the datadonators. 
+In collaboration with the [Human Data Science group](https://hds.sites.uu.nl) and [Eyra](https://eyra.co), the Data Extractor script (as a part of [Data Donation project](https://github.com/eyra/port-poc)) is developed by SoDa team to make the information extracted from the WhatsApp Data Download packages(DDPs) accessible to the researchers for further analysis while preserving the the privacy of the datadonators. 
 
 # WhatsApp data donation process
 
