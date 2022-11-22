@@ -4,7 +4,9 @@
 <!-- e.g. Github Actions workflow status -->
 
 In collaboration with the [Human Data Science group](https://hds.sites.uu.nl) and [Eyra](https://eyra.co), we developed WhatsApp data extractor scripts
-to make the information extracted from the WhatsApp Data Download packages(DDPs) accessible to the researchers for further analysis while preserving the the privacy of the participants. 
+to make the information extracted from the WhatsApp Data Download packages(DDPs) accessible to the researchers for further analysis while preserving the the privacy of the datadonators. 
+
+# How WhatsApp data donation works
 
 Participants can voluntary donate their whatsapp data for research perposes. 
 - DDPs can be requested by participants through the whatsapp on their mobile/desktop device
