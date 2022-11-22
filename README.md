@@ -9,10 +9,10 @@ to make the information extracted from the WhatsApp Data Download packages(DDPs)
 # WhatsApp data donation process
 
 Participants can voluntary donate their whatsapp data for research purposes. 
-- WhatsApp DDPs can be requested by participants through the whatsapp application (on group/account level)
-- WhatsApp DDPs can be stored on participants local storage
-- Data extraction and anonymization processes run locally on participants browser using pyodide technology
-- Extracted data can be donatated after being reviewed and approved by the participants 
+- Participant can requests for his/her WhatsApp DDPs through the whatsapp application (on group/account level)
+- Downloaded data package stores on participant's local storage
+- Data extraction and anonymization processes run locally on participant's browser using pyodide technology
+- Extracted data can be donatated after being reviewed and approved by the participant 
 
 This project consists of two main scripts for extracting information from WhatsApp group chats and WhatsApp account data.
 The extraction logic is placed in the process function within data_extractor/[whatsapp_chat or whatsapp_account_info]/__init__.py which follows the template format of PORT. More information about collaboration with PORT can be found in this [tutorial]().
