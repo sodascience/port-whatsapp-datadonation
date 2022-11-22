@@ -14,10 +14,9 @@ Participants can voluntary donate their whatsapp data for research purposes.
 - Data extraction and anonymization processes run locally on participant's browser using pyodide technology
 - Extracted data can be donatated after being reviewed and approved by the participant 
 
+# Data Extraction overview
 This project consists of two main scripts for extracting information from WhatsApp group chats and WhatsApp account data.
 The extraction logic is placed in the process function within data_extractor/[whatsapp_chat or whatsapp_account_info]/__init__.py which follows the template format of PORT. More information about collaboration with PORT can be found in this [tutorial]().
-
-# Data Extraction overview
 
 The script runs through an online platform called port-poc:
 - [Group level](https://next.dev.eyra.co/data-donation/flow/5?session[participant]=test)
