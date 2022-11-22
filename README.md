@@ -8,7 +8,7 @@ to make the information extracted from the WhatsApp Data Download packages(DDPs)
 
 # How WhatsApp data donation works
 
-Participants can voluntary donate their whatsapp data for research perposes. 
+Participants can voluntary donate their whatsapp data for research purposes. 
 - DDPs can be requested by participants through the whatsapp application (on group/account level)
 - DDPs can be stored on participants local storage
 - Data extraction and anonymization processes run locally on participants browser using pyodide technology
