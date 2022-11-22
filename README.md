@@ -9,8 +9,8 @@ to make the information extracted from the WhatsApp Data Download packages(DDPs)
 # WhatsApp data donation process
 
 Participants can voluntary donate their whatsapp data for research purposes. 
-- DDPs can be requested by participants through the whatsapp application (on group/account level)
-- DDPs can be stored on participants local storage
+- WhatsApp DDPs can be requested by participants through the whatsapp application (on group/account level)
+- WhatsApp DDPs can be stored on participants local storage
 - Data extraction and anonymization processes run locally on participants browser using pyodide technology
 - Extracted data can be donatated after being reviewed and approved by the participants 
 
@@ -19,7 +19,7 @@ The extraction logic is placed in the process function within data_extractor/[wh
 
 # Data Extraction overview
 
-The script can be tested through an online platform called port-poc:
+The script runs through an online platform called port-poc:
 - [Group level](https://next.dev.eyra.co/data-donation/flow/5?session[participant]=test)
 <img src="img/resources/whatsapp-chat1.png" alt="output" width="700px"/>
 <img src="img/resources/whatsapp-chat2.png" alt="output" width="700px"/>
@@ -48,7 +48,7 @@ poetry run pytest
 
 ### Built with
 
-- [python3](https://www.python.org/download/releases/3.0/),
+- [python3](https://www.python.org/download/releases/3.0/)
 -  [pyodide](https://pyodide.org/en/stable/)
 
 
