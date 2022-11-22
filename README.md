@@ -22,7 +22,7 @@ The extraction logic is placed in the process function within data_extractor/[wh
 The script can be tested through an online platform called port-poc:
 - [Group level](https://next.dev.eyra.co/data-donation/flow/5?session[participant]=test)
 <img src="img/resources/whatsapp-chat1.png" alt="output" width="700px"/>
-<img src="img/resources/whatsapp-chat2.png" alt="output" width="700px"/>
+<img src="img/resources/whatsapp-chat2.png" alt="output" width="600px"/>
 <img src="img/resources/whatsapp-chat3.png" alt="output" width="700px"/>
 
 - [Account level](https://next.dev.eyra.co/data-donation/flow/6?session[participant]=test)
