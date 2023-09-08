@@ -11,7 +11,7 @@ This study uses a [deprecated version of Port](https://github.com/eyra/port-poc)
 Participants can voluntary donate their whatsapp data for research purposes. 
 1. Make a request for your WhatsApp DDPs through the whatsapp application (on group/account level)
 2. Download the data package on your local storage.
-3. Login to Port environement and select your data package. Please keep in your mind that data extraction and anonymization processes run locally on your browser. It means you have not shared any data yet.
+3. Login to Port environment and select your data package. Please keep in mind that data extraction and anonymization processes run locally on your browser. It means you have not shared any data yet.
 4. Review the extracted data and donate it in case of agreement.
 
 ## Data Extraction overview
